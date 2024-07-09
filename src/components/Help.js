@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const Helper = () => {
+const Help = () => {
   return (
    <div>
      <h1>Helper Page</h1>
@@ -10,4 +10,4 @@ const Helper = () => {
   );
   };
   
-  export default Helper;
+  export default Help;
