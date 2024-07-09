@@ -23,4 +23,4 @@
 - git remote add origin https://github.com/Yasin144/namaz-tracker.git
 - git config --global user.name Yasin144
 - git config --global user.email patanyasin144@gmail.com
-```
+`````
